@@ -15,5 +15,4 @@ This project was build using https://snack.expo.io
 
 ## Screenshots
 
-![Screenshot](screenshots/Screenshot_20181025-161917.png?raw=true "Title" = 100x100)
-<img src = screenshots/Screenshot_20181025-161917.png width="20" height="20"/>
+<img src = screenshots/Screenshot_20181025-161917.png width="1080" height="1920"/>
