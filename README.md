@@ -15,4 +15,4 @@ This project was build using https://snack.expo.io
 
 ## Screenshots
 
-![Screenshot]screenshots/Screenshot_20181025-161917.png
+![Screenshot](screenshots/Screenshot_20181025-161917.png?raw=true "Title")
