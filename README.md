@@ -15,4 +15,4 @@ This project was build using https://snack.expo.io
 
 ## Screenshots
 
-<img src = screenshots/Screenshot_20181025-161917.png width="240" height="360"/>
+<img src = screenshots/Screenshot_20181025-161917.png width="240" height="360" alt="portfolio_view"/>
