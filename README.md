@@ -9,4 +9,4 @@ This project was build using https://snack.expo.io
 - You can demonstrate project with URL, only expo app for Android or iOS is needed.
 
 ## Project URL :
-exp://expo.io/@vikrantshroti/auth
+[exp://expo.io/@vikrantshroti/auth](exp://expo.io/@vikrantshroti/auth)
