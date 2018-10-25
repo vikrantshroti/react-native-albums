@@ -12,3 +12,7 @@ This project was build using https://snack.expo.io
 ## How to use this project
 - Create a project on https://snack.expo.io then import file or this repository
 - Run project
+
+## Screenshots
+
+![Screenshot]screenshots/Screenshot_20181025-161917.png
