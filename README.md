@@ -6,7 +6,8 @@ This project was build using https://snack.expo.io
 ## Why snack.expo.io ?
 - Project creation does not require any setup neither Android nor iOS SDK.
 - No need of NPM to be running.
-- You can demonstrate project with URL, only expo app for Android or iOS is needed.
+- You can run project with URL / QR Code, only expo app for Android or iOS is needed.
 
-## Project URL :
-[exp://expo.io/@vikrantshroti/auth](exp://expo.io/@vikrantshroti/auth)
+## How to use this project
+- Create a project on https://snack.expo.io then import file or this repository
+- Run project
